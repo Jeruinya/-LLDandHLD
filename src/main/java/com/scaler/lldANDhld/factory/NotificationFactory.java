@@ -1,4 +1,4 @@
-package com.scaler.lldANDhld.builder.factory;
+package com.scaler.lldANDhld.factory;
 
 import com.scaler.lldANDhld.service.EmailNotification;
 import com.scaler.lldANDhld.service.Notification;
