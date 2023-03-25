@@ -1,4 +1,4 @@
-package com.scaler.lldANDhld.LLDandHLD;
+package com.scaler.lldANDhld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
